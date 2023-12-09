@@ -7,6 +7,8 @@
 
 
 
+Link de estudo:
 
+* [Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)
 
 Thanks God!
